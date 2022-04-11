@@ -5,5 +5,5 @@ link do projeto: <a href="https://deivison1.github.io/mudando-fundo-dinamicament
 Esse é código em javascript:
 
 <div> 
-<img src="https://github.com/Deivison1/mudando-fundo-dinamicamente/blob/main/code.png"alt="" width="400" height="500"></div>
+<img src="https://github.com/Deivison1/mudando-fundo-dinamicamente/blob/main/code.png"alt="" width="500" height="500"></div>
 
