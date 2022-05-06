@@ -32,7 +32,6 @@ section{
 footer{
     
     height: 60px;
-    width: 500px;
     display: flex;
     margin: auto;
     align-items:center;
@@ -67,11 +66,12 @@ footer >  a{
         min-height: 230px;
     }
     #imagem{
-        width: auto;
-        height: auto;
+        width: 280px;
+        height: 205px;
     }
     footer{
-        margin-top: 25px;
+        margin-top: 30px;
+        align-items: center;
         flex-direction: column;
     }
 }
