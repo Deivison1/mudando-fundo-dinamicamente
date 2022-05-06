@@ -15,7 +15,7 @@ div{
 }
 
 section{
-    
+
     margin: auto;
     height: 300;
     padding: 10px;
@@ -65,6 +65,10 @@ footer >  a{
     section{
         min-width: 300px;
         min-height: 230px;
+    }
+    #imagem{
+        width: auto;
+        height: auto;
     }
     footer{
         margin-top: 25px;
